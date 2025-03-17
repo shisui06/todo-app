@@ -1,0 +1,70 @@
+.task {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .completed {
+    text-decoration: line-through;
+    color: gray;
+  }
+  
+  .archived {
+    display: none;
+  }
+  
+  .actions {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .completeButton, .archiveButton {
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+
+  div{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .task {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 2px solid #007bff; 
+    border-radius: 8px; 
+    margin-bottom: 10px; 
+  }
+
+  .iconContainer {
+    cursor: pointer; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    width: 40px; 
+    height: 40px; 
+  }
+
+.checkedIcon {
+  color: green; 
+  font-size: 24px; 
+}
+
+.uncheckedIcon {
+  color: gray; 
+  font-size: 24px; 
+}
+
+.task {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border: 2px solid #007bff; 
+  border-radius: 8px; 
+  margin-bottom: 10px; 
+}
