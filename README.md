@@ -1,10 +1,10 @@
 - Les défis rencontrés lors du développement
 
-J'ai trouver diffiicile d'allez matcher differente function avec les pages jsx.
+- J'ai trouver diffiicile d'allez matcher differente function avec les pages jsx.
 
 - Les solutions trouvées pour surmonter ces défis
 
--Beaucoup d'erreur essai et de test. 
+- Beaucoup d'erreur essai et de test. 
 
 - Les apprentissages clés tirés de ce projet
 
